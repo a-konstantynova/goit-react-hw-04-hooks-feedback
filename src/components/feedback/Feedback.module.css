@@ -1,0 +1,8 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 55px 5px;
+  background-color: rgb(238, 145, 83);
+  text-align: center;
+  margin-top: 20px;
+}
